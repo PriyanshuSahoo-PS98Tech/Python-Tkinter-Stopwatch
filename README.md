@@ -56,7 +56,7 @@ A professional, high-precision stopwatch application built with Python's Tkinter
 ```
 Python-Tkinter-Stopwatch/
 ├── stopwatch.py           # Main application file
-├── output.jpg            # Application screenshot
+├── output.png            # Application screenshot
 ├── LICENSE               # Project License
 └── README.md             # Project documentation
 ```
